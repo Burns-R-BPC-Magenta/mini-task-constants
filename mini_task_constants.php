@@ -7,5 +7,5 @@ echo "my age add five years is : ", $age + "5";
 $browser = $_SERVER['HTTP_USER_AGENT']; 
 echo "Your browser is: $browser"; 
 ?>
-</html>
+
 
