@@ -1,6 +1,6 @@
 <html>
 <?php
-define ("Hello", "My name is Robbie Burns and my favourite subject is computing", true)
+define ("Hello", "My name is Robbie Burns and my favourite subject is computing", true);
 echo Hello;
 $age = 17;
 print "my age add five years is : ", $age + "5";
